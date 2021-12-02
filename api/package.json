@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "server": "nodemon index.js",
-    "heroku-postbuild": "cd netflix && npm install && npm run build"
+    "server": "nodemon index.js"
+ 
   },
   "keywords": [],
   "author": "",
