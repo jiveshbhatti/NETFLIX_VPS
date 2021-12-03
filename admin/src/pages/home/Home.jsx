@@ -5,7 +5,7 @@ import { userData } from "../../dummyData";
 import WidgetSm from "../../components/widgetSm/WidgetSm";
 import WidgetLg from "../../components/widgetLg/WidgetLg";
 import React, {useState, useEffect, useMemo} from "react";
-
+import axios from 'axios'
 
 
 const axiosInstance = axios.create({baseURL: process.env.REACT_APP_API_URL})
