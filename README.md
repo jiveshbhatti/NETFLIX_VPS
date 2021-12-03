@@ -22,7 +22,9 @@ Tv Shows/Series
 ## Demo
 
 Admin:  https://netflix-admin-jiv.herokuapp.com/
+
 Client: https://netflix-client-jiv.herokuapp.com/
+
 API:    https://netflix-api-jiv.herokuapp.com/api/
 
 
